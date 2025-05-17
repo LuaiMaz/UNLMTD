@@ -8,12 +8,11 @@ UNLMTD is designed for athletes, fitness enthusiasts, and trainers who want to o
 
 ### Team Members:
 
+* Luai Almaznai (ME)
 * Matthew Martinez
-* Luai Almaznai
 * Anisah Chowdhury
 * Joyce Fu
 * Nadir Ali
-
 ---
 
 ### Thesis Statement:
